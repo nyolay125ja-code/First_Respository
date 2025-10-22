@@ -10,6 +10,7 @@ export default function Kyaw() {
       }}
     >
       <Text>Welcome,kyaw</Text>
+      <Text>Good afternoon</Text>
     </View>
   );
 }
